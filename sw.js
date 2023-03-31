@@ -15,7 +15,9 @@ self.addEventListener('install', function(event) {
             '/blog.html',
             '/about.html',
             '/style.css',
-            '/contact.html'
+            '/contact.html',
+            '/portofolio-example01.html'
+
         ]);
       })
   )
