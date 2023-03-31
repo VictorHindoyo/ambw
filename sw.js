@@ -14,7 +14,7 @@ self.addEventListener('install', function(event) {
             '/app.js',
             '/blog.html',
             '/about.html',
-            '/style.css',
+            '/styles.css',
             '/contact.html'
 
         ]);
